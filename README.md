@@ -93,7 +93,7 @@ Acesse o diretório do projeto:
 
 Acesse o endereço abaixo no navegador:
 
-`https://rodrigo-sergio-silva.github.io/challenge-amigo-secreto/`
+`https://rodrigosergiosilva.github.io/challenge-amigo-secreto/`
 
 <h3> 📁 Estrutura do Projeto </h3>
 
