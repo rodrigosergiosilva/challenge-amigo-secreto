@@ -3,9 +3,9 @@
 <h3> Tópicos </h3>
 
 * [Descrição do Projeto](#descrição-do-projeto)
-* [Status do Projeto](#status-do-projeto)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Acesso ao Projeto](#acesso-ao-projeto)
+* [Status do Projeto](#status-do-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Autor](#autor)
 
