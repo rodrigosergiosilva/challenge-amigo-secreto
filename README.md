@@ -31,11 +31,11 @@ https://github.com/user-attachments/assets/38dedbbc-3048-4426-9de7-94f46436463a
 
 <h3> 🔧 Pré-requisitos </h3> 
 
-Antes de começar, certifique-se de ter os seguintes requisitos instalados:
+Antes de iniciar, verifique se os seguintes requisitos estão instalados:
 
 Navegador Web
 
-Certifique-se de que seu navegador esteja atualizado para garantir compatibilidade com as tecnologias utilizadas no projeto. <br>
+Seu navegador deve estar atualizado para garantir compatibilidade com as tecnologias utilizadas no projeto. <br>
 
 <a href="https://www.google.com/chrome/" target="_blank">
   <img src="https://img.shields.io/badge/Google_Chrome-4285F4?style=flat&logo=google-chrome&logoColor=white" alt="Google Chrome">
@@ -55,14 +55,22 @@ Certifique-se de que seu navegador esteja atualizado para garantir compatibilida
 
 Editor de Código <br>
 
-Para visualizar e editar os arquivos do projeto, recomenda-se o uso de um editor de código, como:
+Recomenda-se o uso de um editor de código para visualizar e editar os arquivos do projeto.
 
 <a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
 </a><br>
 
+<a href="https://www.eclipse.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse-ide&logoColor=white" alt="Eclipse IDE">
+</a> <br>
+
 <a href="https://www.sublimetext.com/" target="_blank">
   <img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=flat&logo=sublime-text&logoColor=white" alt="Sublime Text">
+</a><br>
+
+<a href="http://brackets.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Brackets-007ACC?style=flat&logo=brackets&logoColor=white" alt="Brackets">
 </a><br>
 
 <a href="https://atom.io/" target="_blank">
@@ -71,29 +79,23 @@ Para visualizar e editar os arquivos do projeto, recomenda-se o uso de um editor
 
 <h3> 📦 Instalação </h3>
 
-Siga os passos abaixo para configurar o ambiente de desenvolvimento:
+Para configurar o ambiente de desenvolvimento, siga os passos abaixo:
 
 Clone o repositório: 
 
-git clone git@github.com:rodrigosergiosilva/challenge-amigo-secreto.git
+`git clone git@github.com:rodrigosergiosilva/challenge-amigo-secreto.git`
 
 Acesse o diretório do projeto:
 
-cd challenge-amigo-secreto
+`cd challenge-amigo-secreto`
 
 <h3> 🚀 Uso </h3>
 
-Como executar e utilizar o projeto:
+Acesse o endereço abaixo no navegador:
 
-Acesse no navegador: https://rodrigo-sergio-silva.github.io/challenge-amigo-secreto/
+`https://rodrigo-sergio-silva.github.io/challenge-amigo-secreto/`
 
 <h3> 📁 Estrutura do Projeto </h3>
-
-Na pasta principal Challenge-Amigo-Secreto temos a pasta assets, que contém as imagens utilizadas no nosso arquivo CSS e fornecidas pelo curso.
-
-Em sequência temos os arquivos que compõem a aplicação web, o JavaScript app.JS, o HTML index.html e o CSS style.css.
-
-Por último, temos o arquivo texto README.md.
 
 ![image](https://github.com/user-attachments/assets/98be7bc1-72a7-463a-8e6a-2bd39bbff22a)
 
